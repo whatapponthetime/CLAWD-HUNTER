@@ -1,4 +1,5 @@
 https://x.com/clawra28
+CA : 9qMV1txK2cvU43duNjtTMAEy67LRVrCVzAdkH5zQpump
 <p align="center">
   <img src="public/banner.jpeg" alt="Clawra Specter Banner" width="100%" />
 </p>
